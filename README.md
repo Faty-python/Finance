@@ -53,9 +53,9 @@ The application should automatically create the necessary SQLite database and ta
 
 Team Members:
 
-Fathima Shaik
-Swathi Kakani
-Vishnu Vardhan Reddy
+Fathima Shaik,
+Swathi Kakani,
+Vishnu Vardhan Reddy,
 Sai Ram
 
 
